@@ -1,0 +1,44 @@
+# Dependency directories
+node_modules/
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+.venv
+env.bak/
+venv.bak/
+
+# Project specific directories that should not be tracked
+JD_Stored/
+resume_shortlister/jd/
+resume_shortlister/resumes/
+
+# Logs and temporary files
+*.log
+resume_shortlister/*.txt
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Build outputs
+dist/
+build/
+out/
+.next/
+
+# IDE files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
