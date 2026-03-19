@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+motor
+pymongo
+numpy
+requests
+faiss-cpu
+sentence-transformers
+pdfplumber
+easyocr
+pypdfium2
+pydantic
+python-dotenv
